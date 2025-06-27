@@ -7,7 +7,7 @@ A smart video frame retrieval system that allows you to:
 - Store vectors in **Qdrant (Cloud Vector DB)**
 - Search for similar frames using an image query
 
----
+
 
 ## Folder Structure
 
@@ -17,7 +17,7 @@ A smart video frame retrieval system that allows you to:
 ├── uploaded_videos/ 
 ├── frames/
 ├── temp/ 
----
+
 
 ## Features
 
